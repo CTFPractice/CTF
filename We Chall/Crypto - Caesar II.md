@@ -1,6 +1,6 @@
 Crypto - Caesar II
 ===
-Hint: 
+Hint: 進制轉換、Caesar Cipher
 
 先將ASCII從十六進位轉成十進位。
 ```python=
