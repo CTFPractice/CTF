@@ -10,6 +10,7 @@ http://www.wechall.net/
 - [Training: WWW-Robots](https://github.com/CTFPractice/CTF/blob/master/We%20Chall/WWW-Robots.md)
 - [Training: ASCII](https://github.com/CTFPractice/CTF/blob/master/We%20Chall/ASCII.md)
 - [Encodings: URL](https://github.com/CTFPractice/CTF/blob/master/We%20Chall/URL.md)
+- [Training: Encodings I]()
 - [Training: Crypto - Transposition I]()
 - [Training: Crypto - Substitution I]()
 - [Training: Crypto - Caesar II](https://github.com/CTFPractice/CTF/blob/master/We%20Chall/Crypto%20-%20Caesar%20II.md)
