@@ -12,3 +12,8 @@
 - [31C3 CTF](https://archive.aachen.ccc.de/31c3ctf.aachen.ccc.de/#)
 - [PicoCTF](https://2017game.picoctf.com)
 - [安全客](http://bobao.360.cn/ctf/index)
+- [Net Force](https://www.net-force.nl/)
+- [Bamboofox](https://bamboofox.cs.nctu.edu.tw/)
+- [GameOfHacks](http://www.gameofhacks.com/)
+- [HackThis](https://www.hackthis.co.uk/)
+- [Pwnable](http://pwnable.kr/)
