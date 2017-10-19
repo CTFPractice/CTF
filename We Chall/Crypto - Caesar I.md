@@ -19,4 +19,5 @@ for keyspace in range(0,26):
 ```
 
 執行後可以找到Solution。
+
 ![](https://i.imgur.com/LZI25GW.png)
