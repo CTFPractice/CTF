@@ -7,3 +7,7 @@
 - [WTHack](https://www.onlinectf.com/dashboard/)
 - [CTFLearn](https://ctflearn.com/)
 - [Net Force](https://www.net-force.nl/)
+- [Bamboofox](https://bamboofox.cs.nctu.edu.tw/)
+- [GameOfHacks](http://www.gameofhacks.com/)
+- [HackThis](https://www.hackthis.co.uk/)
+- [Pwnable](http://pwnable.kr/)
